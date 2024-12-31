@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Marc, a mathematician, physicist and data scientist from Barcelona!<br><br>🔭 I'm currently working on my M.Sc. thesis, focused on the application of causal inference and explainability techniques on LLMs.<br>🏛️ I'm also working as substitute professor at the University of Barcelona.<br>🤝 I'm looking to collaborate on projects involving AI for good.<br>🌿 I'm always open to learn and participate in new projects!
+Hi, I'm Marc, a mathematician, physicist and data scientist from Barcelona!<br><br>🔭 I'm currently working on my M.Sc. thesis, focused on the application of causal inference and explainability techniques on LLMs.<br>🏛️ I'm also working as a provisional lecturer at the University of Barcelona.<br>🤝 I'm looking to collaborate on projects involving AI for good.<br>🌿 I'm always open to learn and participate in new projects!
 
 
 ## 🌐 Socials:
